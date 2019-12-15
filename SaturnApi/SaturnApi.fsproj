@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Giraffe" Version="4.0.*" />
-    <PackageReference Include="Saturn" Version="0.9" />
+    <PackageReference Include="Giraffe" Version="4.0.1" />
+    <PackageReference Include="Saturn" Version="0.10.1" />
   </ItemGroup>
 
   <ItemGroup>
